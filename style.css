@@ -8,7 +8,7 @@ body{
     img{
         background-color:lime;
         position: absolute;
-        border:	thick maroon ridge;
+        border:	thick rgb(0, 79, 128) ridge;
         
     }
     p{	background-color:aqua;
