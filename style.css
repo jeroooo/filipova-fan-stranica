@@ -34,3 +34,8 @@ body{
         align-items: centre;
        text-align: left;
     }
+    .textoko{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(255, 0, 179); 
+        font-weight: bold;
+    }
