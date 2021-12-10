@@ -1,0 +1,25 @@
+body{
+    background-color:lime;
+        }
+    
+    h3 {
+        border:medium 
+    }
+    img{
+        background-color:lime;
+        position: absolute;
+        border:	thick maroon ridge;
+        
+    }
+    p{	background-color:aqua;
+        position:relative;
+        font-family:"Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+        font-size:xx-large;
+    }
+    
+    
+    .auto-style1 {
+        margin-right:auto;
+        margin-left:auto;
+    }
+    
