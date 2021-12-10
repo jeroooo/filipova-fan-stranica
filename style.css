@@ -5,11 +5,11 @@ body{
     h3 {
         border:medium 
     }
-    img{
+    div{
         background-color:lime;
         position: absolute;
         border:	thick rgb(0, 79, 128) ridge;
-        
+        margin-block: auto;
     }
     p{	background-color:aqua;
         position:relative;
